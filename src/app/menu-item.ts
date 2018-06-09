@@ -1,8 +1,6 @@
 export class MenuItem {
-  constructor(
-    public name: string,
-    public details: string,
-    public price: number,
-    public id: string
-  ) {}
+  name: string;
+  details: string;
+  price: number;
+  id: string;
 }

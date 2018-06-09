@@ -10,6 +10,7 @@ import { MenuComponent } from './menu/menu.component';
 import { HomeComponent } from './home/home.component';
 import { HttpClientModule } from '@angular/common/http';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { AngularFontAwesomeModule } from 'angular-font-awesome';
     FooterComponent,
     HomeComponent,
     MenuComponent,
-    AboutComponent
+    AboutComponent,
+    ContactComponent
   ],
   imports: [BrowserModule, HttpClientModule, AppRoutingModule, AngularFontAwesomeModule],
   providers: [],
