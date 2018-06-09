@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Buffalo Chicken Dip",
+    "details":
+      "Buffalo wing sauce, cream cheese and ranch or blue cheese dressing make a great party dip. Everywhere I take it, people want this chicken wing dip recipe. —Peggy Foster, Florence, Kentucky",
+    "price": 20
+  },
+  {
+    "name": "Heirloom Tomato Salad",
+    "details":
+      "These creamy stuffed jalapenos have some bite. They may be the most popular treats I make! My husband is always hinting that I should make a batch. —Lisa Byington, Johnson City, New York",
+    "price": 25
+  },
+  {
+    "name": "Homemad Guacamole",
+    "details":
+      "Ever wondered how to make guacamole? Just whip together this delicious blend of your favorite fresh ingredients.—Joan Hallford, North Richland Hills, Texas",
+    "price": 23
+  },
+  {
+    "name": "Glazed Chiken Wings",
+    "details":
+      "I received the recipe for these yummy wings from a cousin on Vancouver Island during a visit there a few years ago. They’re an appealing appetizer, but also a favorite for Sunday lunch with rice and a salad. —Joan Airey, Rivers, Manitoba",
+    "price": 15
+  },
+  {
+    "name": "Cucumber-Stuffed Cherry Tomatoes",
+    "details":
+      "Besides being tasty, these little tomato poppers are extra awesome because you can make them ahead of time. At parties, I often triple the recipe because they disappear fast. —Christi Martin, Elko, Nevada",
+    "price": 10
+  }
+]

@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <div>
+      <a class="navbar-brand" href="/home">
+        <img src="../../../assets/restaurantlogo.png" height="36" width="36" />
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> Menu
+        <i class="fa fa-bars"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="nav navbar-nav">
+        <!-- Home -->
+        <li routerLinkActive="active" class="nav-item">
+          <a class="nav-link" routerLink="/home">
+            <span class="fa fa-home"></span> Home</a>
+        </li>
+        <!-- About -->
+        <li routerLinkActive="active" class="nav-item">
+          <a class="nav-link" routerLink="/about">
+            <span class="fa fa-info"></span> About</a>
+        </li>
+        <!-- Menu -->
+        <li routerLinkActive="active" class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">Menu
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" routerLink="/menu/1">Appetizers</a>
+            </li>
+            <li>
+              <a class="dropdown-item" routerLink="/menu/2">Main Courses</a>
+            </li>
+          </ul>
+        </li>
+        <!--Contact-->
+        <li routerLinkActive="active" class="nav-item">
+          <a class="nav-link" href="mailto:ilfornello@food.net">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

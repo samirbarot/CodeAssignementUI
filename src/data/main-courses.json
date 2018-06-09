@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Beef Enchiladas",
+    "details": "Beef Enchiladas Details",
+    "price": 35
+  },
+  {
+    "name": "Beer and Brown Sugar Kielbasa & Sauerkraut",
+    "details": "Beer and Brown Sugar Kielbasa & Sauerkraut Details",
+    "price": 30
+  },
+  {
+    "name": "Coconut Shrimp with Mango Dipping Sauce",
+    "details": "Coconut Shrimp with Mango Dipping Sauce Details",
+    "price": 40
+  },
+  {
+    "name": "Crab Cakes with Remoulade Sauce",
+    "details": "Crab Cakes with Remoulade Sauce Details",
+    "price": 20
+  },
+  {
+    "name": "Frito Pie",
+    "details": "Frito Pie Details",
+    "price": 25
+  }
+]

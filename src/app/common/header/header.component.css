@@ -1,0 +1,15 @@
+.header {
+  padding-top: 10px;
+  padding-bottom: 60px;
+  background-color: #7884cd;
+}
+.header-title {
+  padding-top: 45px;
+  color: #fff;
+  font-size: 3.2em;
+}
+.header-body {
+  padding-top: 90px;
+  color: #fff;
+  font-size: 1.2em;
+}

@@ -1,0 +1,18 @@
+.style {
+  font-weight: 300;
+  font-size: 1.8em;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: red;
+}
+.name {
+  font-weight: 300;
+}
+.price {
+  font-weight: 500;
+  padding-left: 10px;
+  color: black;
+}
+.active {
+  font-weight: 400;
+}

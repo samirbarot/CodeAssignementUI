@@ -1,0 +1,35 @@
+footer {
+  padding-top: 50px;
+}
+.row {
+  background-color: #afafaf;
+  padding-top: 20px;
+}
+ul {
+  list-style-type: none;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+address {
+  font-size: 12px;
+}
+address p {
+  margin-bottom: 0;
+}
+.social {
+  padding: 40px 10px;
+}
+.social img {
+  height: 20px;
+  padding-right: 5px;
+}
+.social img[src*='email.png'] {
+  padding-left: 5px;
+  height: 20px;
+}
+.copyright {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+}
